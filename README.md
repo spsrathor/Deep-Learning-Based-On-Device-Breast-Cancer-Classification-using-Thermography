@@ -11,7 +11,7 @@ Both protocols contains
 
 In this work Thermal maps of both protocols are used. Thermal maps are similar to heat maps, they contain arrays of temperature at a given point in the image.
 
-Experimentation with 13 models was done with fine-tunning.
+Experimentation with 13 models was done with fine-tunning. Comparions of the models is given [here](https://github.com/spsrathor/Deep-Learning-Based-On-Device-Breast-Cancer-Classification-using-Thermography/blob/main/Models/Readme.md)
 
 Taking size and accuracy into conideration, an android application was made. Screenshots of the Android Application are given below-
 
