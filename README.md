@@ -15,10 +15,4 @@ Experimentation with 13 models was done with fine-tunning.
 
 Taking size and accuracy into conideration, an android application was made. Screenshots of the Android Application are given below-
 
-![image](https://user-images.githubusercontent.com/62622079/182930348-71a574da-0319-4645-8fc5-063bcb0afb16.png)
-
-
-![image](https://user-images.githubusercontent.com/62622079/182930384-841fd585-6abc-4018-8568-a79644d7c7bc.png)
-
-
-![image](https://user-images.githubusercontent.com/62622079/182930404-deb37ee9-556f-48ff-84f2-dee598ae7aa6.png)
+![image](https://user-images.githubusercontent.com/62622079/182930348-71a574da-0319-4645-8fc5-063bcb0afb16.png)   ![image](https://user-images.githubusercontent.com/62622079/182930384-841fd585-6abc-4018-8568-a79644d7c7bc.png)    ![image](https://user-images.githubusercontent.com/62622079/182930404-deb37ee9-556f-48ff-84f2-dee598ae7aa6.png)
